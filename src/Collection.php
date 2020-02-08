@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Marussia\Collection
+namespace Marussia\Collection;
 
 class Collection implements \IteratorAggregate
 {
